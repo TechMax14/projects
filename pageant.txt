@@ -1,0 +1,1750 @@
+A,Alabama,P,8
+A,Alabama,T,2
+A,Alabama,L,6
+A,Alabama,E,10
+A,Alabama,O,6
+A,Alaska,P,1
+A,Alaska,T,7
+A,Alaska,L,10
+A,Alaska,E,8
+A,Alaska,O,8
+A,Arizona,P,10
+A,Arizona,T,3
+A,Arizona,L,8
+A,Arizona,E,4
+A,Arizona,O,9
+A,Arkansas,P,10
+A,Arkansas,T,9
+A,Arkansas,L,6
+A,Arkansas,E,2
+A,Arkansas,O,7
+A,California,P,9
+A,California,T,3
+A,California,L,4
+A,California,E,9
+A,California,O,5
+A,Colorado,P,8
+A,Colorado,T,10
+A,Colorado,L,2
+A,Colorado,E,9
+A,Colorado,O,4
+A,Connecticut,P,1
+A,Connecticut,T,7
+A,Connecticut,L,2
+A,Connecticut,E,7
+A,Connecticut,O,6
+A,Delaware,P,5
+A,Delaware,T,4
+A,Delaware,L,1
+A,Delaware,E,1
+A,Delaware,O,10
+A,Florida,P,9
+A,Florida,T,7
+A,Florida,L,5
+A,Florida,E,6
+A,Florida,O,10
+A,Georgia,P,5
+A,Georgia,T,8
+A,Georgia,L,6
+A,Georgia,E,2
+A,Georgia,O,7
+A,Hawaii,P,3
+A,Hawaii,T,7
+A,Hawaii,L,5
+A,Hawaii,E,4
+A,Hawaii,O,5
+A,Idaho,P,7
+A,Idaho,T,3
+A,Idaho,L,5
+A,Idaho,E,9
+A,Idaho,O,3
+A,Illinois,P,6
+A,Illinois,T,3
+A,Illinois,L,2
+A,Illinois,E,5
+A,Illinois,O,8
+A,Indiana,P,7
+A,Indiana,T,9
+A,Indiana,L,4
+A,Indiana,E,2
+A,Indiana,O,6
+A,Iowa,P,7
+A,Iowa,T,4
+A,Iowa,L,10
+A,Iowa,E,7
+A,Iowa,O,2
+A,Kansas,P,1
+A,Kansas,T,4
+A,Kansas,L,10
+A,Kansas,E,10
+A,Kansas,O,10
+A,Kentucky,P,7
+A,Kentucky,T,3
+A,Kentucky,L,9
+A,Kentucky,E,3
+A,Kentucky,O,3
+A,Louisiana,P,3
+A,Louisiana,T,9
+A,Louisiana,L,10
+A,Louisiana,E,9
+A,Louisiana,O,6
+A,Maine,P,10
+A,Maine,T,9
+A,Maine,L,6
+A,Maine,E,10
+A,Maine,O,1
+A,Maryland,P,10
+A,Maryland,T,3
+A,Maryland,L,2
+A,Maryland,E,7
+A,Maryland,O,7
+A,Massachusetts,P,8
+A,Massachusetts,T,3
+A,Massachusetts,L,9
+A,Massachusetts,E,7
+A,Massachusetts,O,3
+A,Michigan,P,6
+A,Michigan,T,2
+A,Michigan,L,2
+A,Michigan,E,2
+A,Michigan,O,10
+A,Minnesota,P,8
+A,Minnesota,T,1
+A,Minnesota,L,2
+A,Minnesota,E,8
+A,Minnesota,O,2
+A,Mississippi,P,1
+A,Mississippi,T,5
+A,Mississippi,L,6
+A,Mississippi,E,6
+A,Mississippi,O,8
+A,Missouri,P,10
+A,Missouri,T,4
+A,Missouri,L,10
+A,Missouri,E,6
+A,Missouri,O,7
+A,Montana,P,7
+A,Montana,T,4
+A,Montana,L,8
+A,Montana,E,4
+A,Montana,O,4
+A,Nebraska,P,3
+A,Nebraska,T,4
+A,Nebraska,L,8
+A,Nebraska,E,2
+A,Nebraska,O,5
+A,Nevada,P,5
+A,Nevada,T,3
+A,Nevada,L,8
+A,Nevada,E,7
+A,Nevada,O,7
+A,New Hampshire,P,3
+A,New Hampshire,T,3
+A,New Hampshire,L,4
+A,New Hampshire,E,3
+A,New Hampshire,O,6
+A,New Jersey,P,1
+A,New Jersey,T,3
+A,New Jersey,L,8
+A,New Jersey,E,4
+A,New Jersey,O,5
+A,New Mexico,P,9
+A,New Mexico,T,9
+A,New Mexico,L,10
+A,New Mexico,E,7
+A,New Mexico,O,10
+A,New York,P,7
+A,New York,T,5
+A,New York,L,10
+A,New York,E,5
+A,New York,O,3
+A,North Carolina,P,1
+A,North Carolina,T,2
+A,North Carolina,L,2
+A,North Carolina,E,8
+A,North Carolina,O,2
+A,North Dakota,P,9
+A,North Dakota,T,1
+A,North Dakota,L,7
+A,North Dakota,E,5
+A,North Dakota,O,7
+A,Ohio,P,4
+A,Ohio,T,9
+A,Ohio,L,6
+A,Ohio,E,5
+A,Ohio,O,4
+A,Oklahoma,P,5
+A,Oklahoma,T,10
+A,Oklahoma,L,3
+A,Oklahoma,E,4
+A,Oklahoma,O,7
+A,Oregon,P,2
+A,Oregon,T,3
+A,Oregon,L,3
+A,Oregon,E,10
+A,Oregon,O,4
+A,Pennsylvania,P,5
+A,Pennsylvania,T,5
+A,Pennsylvania,L,8
+A,Pennsylvania,E,8
+A,Pennsylvania,O,1
+A,Rhode Island,P,6
+A,Rhode Island,T,7
+A,Rhode Island,L,9
+A,Rhode Island,E,6
+A,Rhode Island,O,9
+A,South Carolina,P,4
+A,South Carolina,T,4
+A,South Carolina,L,9
+A,South Carolina,E,2
+A,South Carolina,O,4
+A,South Dakota,P,5
+A,South Dakota,T,9
+A,South Dakota,L,1
+A,South Dakota,E,4
+A,South Dakota,O,1
+A,Tennessee,P,1
+A,Tennessee,T,7
+A,Tennessee,L,9
+A,Tennessee,E,2
+A,Tennessee,O,10
+A,Texas,P,6
+A,Texas,T,4
+A,Texas,L,6
+A,Texas,E,4
+A,Texas,O,6
+A,Utah,P,7
+A,Utah,T,3
+A,Utah,L,8
+A,Utah,E,10
+A,Utah,O,9
+A,Vermont,P,2
+A,Vermont,T,7
+A,Vermont,L,7
+A,Vermont,E,1
+A,Vermont,O,2
+A,Virginia,P,4
+A,Virginia,T,6
+A,Virginia,L,8
+A,Virginia,E,8
+A,Virginia,O,10
+A,Washington,P,10
+A,Washington,T,7
+A,Washington,L,6
+A,Washington,E,3
+A,Washington,O,5
+A,West Virginia,P,8
+A,West Virginia,T,6
+A,West Virginia,L,3
+A,West Virginia,E,4
+A,West Virginia,O,9
+A,Wisconsin,P,4
+A,Wisconsin,T,1
+A,Wisconsin,L,10
+A,Wisconsin,E,10
+A,Wisconsin,O,1
+A,Wyoming,P,8
+A,Wyoming,T,4
+A,Wyoming,L,3
+A,Wyoming,E,3
+A,Wyoming,O,10
+B,Alabama,P,4
+B,Alabama,T,6
+B,Alabama,L,2
+B,Alabama,E,10
+B,Alabama,O,3
+B,Alaska,P,9
+B,Alaska,T,2
+B,Alaska,L,2
+B,Alaska,E,4
+B,Alaska,O,9
+B,Arizona,P,1
+B,Arizona,T,9
+B,Arizona,L,8
+B,Arizona,E,5
+B,Arizona,O,8
+B,Arkansas,P,2
+B,Arkansas,T,8
+B,Arkansas,L,7
+B,Arkansas,E,10
+B,Arkansas,O,5
+B,California,P,9
+B,California,T,2
+B,California,L,5
+B,California,E,7
+B,California,O,1
+B,Colorado,P,3
+B,Colorado,T,7
+B,Colorado,L,10
+B,Colorado,E,9
+B,Colorado,O,2
+B,Connecticut,P,10
+B,Connecticut,T,6
+B,Connecticut,L,2
+B,Connecticut,E,7
+B,Connecticut,O,8
+B,Delaware,P,8
+B,Delaware,T,7
+B,Delaware,L,8
+B,Delaware,E,5
+B,Delaware,O,3
+B,Florida,P,9
+B,Florida,T,5
+B,Florida,L,9
+B,Florida,E,8
+B,Florida,O,2
+B,Georgia,P,8
+B,Georgia,T,7
+B,Georgia,L,7
+B,Georgia,E,9
+B,Georgia,O,9
+B,Hawaii,P,8
+B,Hawaii,T,10
+B,Hawaii,L,4
+B,Hawaii,E,10
+B,Hawaii,O,8
+B,Idaho,P,3
+B,Idaho,T,10
+B,Idaho,L,9
+B,Idaho,E,4
+B,Idaho,O,2
+B,Illinois,P,7
+B,Illinois,T,7
+B,Illinois,L,7
+B,Illinois,E,3
+B,Illinois,O,9
+B,Indiana,P,2
+B,Indiana,T,8
+B,Indiana,L,6
+B,Indiana,E,7
+B,Indiana,O,3
+B,Iowa,P,9
+B,Iowa,T,10
+B,Iowa,L,1
+B,Iowa,E,8
+B,Iowa,O,2
+B,Kansas,P,9
+B,Kansas,T,1
+B,Kansas,L,9
+B,Kansas,E,8
+B,Kansas,O,10
+B,Kentucky,P,4
+B,Kentucky,T,9
+B,Kentucky,L,6
+B,Kentucky,E,10
+B,Kentucky,O,9
+B,Louisiana,P,4
+B,Louisiana,T,7
+B,Louisiana,L,3
+B,Louisiana,E,9
+B,Louisiana,O,8
+B,Maine,P,2
+B,Maine,T,4
+B,Maine,L,6
+B,Maine,E,3
+B,Maine,O,7
+B,Maryland,P,4
+B,Maryland,T,4
+B,Maryland,L,1
+B,Maryland,E,3
+B,Maryland,O,2
+B,Massachusetts,P,4
+B,Massachusetts,T,7
+B,Massachusetts,L,4
+B,Massachusetts,E,8
+B,Massachusetts,O,1
+B,Michigan,P,3
+B,Michigan,T,9
+B,Michigan,L,7
+B,Michigan,E,1
+B,Michigan,O,9
+B,Minnesota,P,8
+B,Minnesota,T,10
+B,Minnesota,L,6
+B,Minnesota,E,9
+B,Minnesota,O,6
+B,Mississippi,P,3
+B,Mississippi,T,9
+B,Mississippi,L,6
+B,Mississippi,E,5
+B,Mississippi,O,1
+B,Missouri,P,1
+B,Missouri,T,9
+B,Missouri,L,8
+B,Missouri,E,7
+B,Missouri,O,8
+B,Montana,P,2
+B,Montana,T,4
+B,Montana,L,9
+B,Montana,E,8
+B,Montana,O,1
+B,Nebraska,P,4
+B,Nebraska,T,9
+B,Nebraska,L,9
+B,Nebraska,E,8
+B,Nebraska,O,6
+B,Nevada,P,5
+B,Nevada,T,5
+B,Nevada,L,4
+B,Nevada,E,2
+B,Nevada,O,4
+B,New Hampshire,P,7
+B,New Hampshire,T,5
+B,New Hampshire,L,2
+B,New Hampshire,E,6
+B,New Hampshire,O,3
+B,New Jersey,P,7
+B,New Jersey,T,8
+B,New Jersey,L,10
+B,New Jersey,E,2
+B,New Jersey,O,5
+B,New Mexico,P,9
+B,New Mexico,T,7
+B,New Mexico,L,4
+B,New Mexico,E,2
+B,New Mexico,O,9
+B,New York,P,3
+B,New York,T,10
+B,New York,L,1
+B,New York,E,2
+B,New York,O,3
+B,North Carolina,P,10
+B,North Carolina,T,10
+B,North Carolina,L,9
+B,North Carolina,E,3
+B,North Carolina,O,8
+B,North Dakota,P,1
+B,North Dakota,T,1
+B,North Dakota,L,8
+B,North Dakota,E,9
+B,North Dakota,O,4
+B,Ohio,P,1
+B,Ohio,T,8
+B,Ohio,L,3
+B,Ohio,E,6
+B,Ohio,O,6
+B,Oklahoma,P,10
+B,Oklahoma,T,10
+B,Oklahoma,L,3
+B,Oklahoma,E,3
+B,Oklahoma,O,9
+B,Oregon,P,3
+B,Oregon,T,6
+B,Oregon,L,5
+B,Oregon,E,2
+B,Oregon,O,7
+B,Pennsylvania,P,9
+B,Pennsylvania,T,9
+B,Pennsylvania,L,8
+B,Pennsylvania,E,3
+B,Pennsylvania,O,5
+B,Rhode Island,P,10
+B,Rhode Island,T,7
+B,Rhode Island,L,1
+B,Rhode Island,E,6
+B,Rhode Island,O,6
+B,South Carolina,P,6
+B,South Carolina,T,6
+B,South Carolina,L,2
+B,South Carolina,E,9
+B,South Carolina,O,2
+B,South Dakota,P,4
+B,South Dakota,T,6
+B,South Dakota,L,1
+B,South Dakota,E,9
+B,South Dakota,O,3
+B,Tennessee,P,1
+B,Tennessee,T,6
+B,Tennessee,L,9
+B,Tennessee,E,4
+B,Tennessee,O,7
+B,Texas,P,4
+B,Texas,T,10
+B,Texas,L,6
+B,Texas,E,1
+B,Texas,O,3
+B,Utah,P,8
+B,Utah,T,3
+B,Utah,L,6
+B,Utah,E,4
+B,Utah,O,10
+B,Vermont,P,5
+B,Vermont,T,9
+B,Vermont,L,1
+B,Vermont,E,2
+B,Vermont,O,7
+B,Virginia,P,4
+B,Virginia,T,10
+B,Virginia,L,8
+B,Virginia,E,9
+B,Virginia,O,5
+B,Washington,P,5
+B,Washington,T,9
+B,Washington,L,1
+B,Washington,E,1
+B,Washington,O,1
+B,West Virginia,P,7
+B,West Virginia,T,3
+B,West Virginia,L,1
+B,West Virginia,E,4
+B,West Virginia,O,8
+B,Wisconsin,P,2
+B,Wisconsin,T,3
+B,Wisconsin,L,5
+B,Wisconsin,E,3
+B,Wisconsin,O,4
+B,Wyoming,P,3
+B,Wyoming,T,4
+B,Wyoming,L,9
+B,Wyoming,E,5
+B,Wyoming,O,9
+C,Alabama,P,1
+C,Alabama,T,8
+C,Alabama,L,5
+C,Alabama,E,10
+C,Alabama,O,4
+C,Alaska,P,2
+C,Alaska,T,7
+C,Alaska,L,4
+C,Alaska,E,1
+C,Alaska,O,5
+C,Arizona,P,9
+C,Arizona,T,4
+C,Arizona,L,3
+C,Arizona,E,2
+C,Arizona,O,3
+C,Arkansas,P,8
+C,Arkansas,T,5
+C,Arkansas,L,3
+C,Arkansas,E,6
+C,Arkansas,O,6
+C,California,P,6
+C,California,T,2
+C,California,L,3
+C,California,E,2
+C,California,O,10
+C,Colorado,P,5
+C,Colorado,T,9
+C,Colorado,L,1
+C,Colorado,E,9
+C,Colorado,O,4
+C,Connecticut,P,9
+C,Connecticut,T,3
+C,Connecticut,L,8
+C,Connecticut,E,2
+C,Connecticut,O,7
+C,Delaware,P,5
+C,Delaware,T,9
+C,Delaware,L,1
+C,Delaware,E,7
+C,Delaware,O,2
+C,Florida,P,1
+C,Florida,T,8
+C,Florida,L,10
+C,Florida,E,4
+C,Florida,O,4
+C,Georgia,P,6
+C,Georgia,T,1
+C,Georgia,L,5
+C,Georgia,E,5
+C,Georgia,O,7
+C,Hawaii,P,2
+C,Hawaii,T,3
+C,Hawaii,L,10
+C,Hawaii,E,9
+C,Hawaii,O,2
+C,Idaho,P,8
+C,Idaho,T,2
+C,Idaho,L,2
+C,Idaho,E,5
+C,Idaho,O,2
+C,Illinois,P,2
+C,Illinois,T,9
+C,Illinois,L,4
+C,Illinois,E,6
+C,Illinois,O,5
+C,Indiana,P,2
+C,Indiana,T,10
+C,Indiana,L,2
+C,Indiana,E,10
+C,Indiana,O,9
+C,Iowa,P,3
+C,Iowa,T,10
+C,Iowa,L,7
+C,Iowa,E,1
+C,Iowa,O,6
+C,Kansas,P,5
+C,Kansas,T,3
+C,Kansas,L,7
+C,Kansas,E,4
+C,Kansas,O,1
+C,Kentucky,P,10
+C,Kentucky,T,3
+C,Kentucky,L,8
+C,Kentucky,E,1
+C,Kentucky,O,1
+C,Louisiana,P,5
+C,Louisiana,T,8
+C,Louisiana,L,1
+C,Louisiana,E,9
+C,Louisiana,O,8
+C,Maine,P,10
+C,Maine,T,3
+C,Maine,L,2
+C,Maine,E,10
+C,Maine,O,9
+C,Maryland,P,1
+C,Maryland,T,9
+C,Maryland,L,1
+C,Maryland,E,8
+C,Maryland,O,6
+C,Massachusetts,P,7
+C,Massachusetts,T,5
+C,Massachusetts,L,2
+C,Massachusetts,E,4
+C,Massachusetts,O,4
+C,Michigan,P,5
+C,Michigan,T,5
+C,Michigan,L,5
+C,Michigan,E,2
+C,Michigan,O,2
+C,Minnesota,P,5
+C,Minnesota,T,10
+C,Minnesota,L,7
+C,Minnesota,E,4
+C,Minnesota,O,3
+C,Mississippi,P,2
+C,Mississippi,T,1
+C,Mississippi,L,6
+C,Mississippi,E,3
+C,Mississippi,O,10
+C,Missouri,P,5
+C,Missouri,T,4
+C,Missouri,L,8
+C,Missouri,E,2
+C,Missouri,O,3
+C,Montana,P,7
+C,Montana,T,9
+C,Montana,L,7
+C,Montana,E,5
+C,Montana,O,5
+C,Nebraska,P,4
+C,Nebraska,T,8
+C,Nebraska,L,8
+C,Nebraska,E,1
+C,Nebraska,O,8
+C,Nevada,P,6
+C,Nevada,T,4
+C,Nevada,L,10
+C,Nevada,E,1
+C,Nevada,O,7
+C,New Hampshire,P,5
+C,New Hampshire,T,6
+C,New Hampshire,L,2
+C,New Hampshire,E,10
+C,New Hampshire,O,4
+C,New Jersey,P,3
+C,New Jersey,T,9
+C,New Jersey,L,9
+C,New Jersey,E,7
+C,New Jersey,O,1
+C,New Mexico,P,10
+C,New Mexico,T,10
+C,New Mexico,L,5
+C,New Mexico,E,2
+C,New Mexico,O,1
+C,New York,P,6
+C,New York,T,8
+C,New York,L,3
+C,New York,E,8
+C,New York,O,7
+C,North Carolina,P,7
+C,North Carolina,T,5
+C,North Carolina,L,6
+C,North Carolina,E,9
+C,North Carolina,O,1
+C,North Dakota,P,5
+C,North Dakota,T,3
+C,North Dakota,L,4
+C,North Dakota,E,5
+C,North Dakota,O,2
+C,Ohio,P,2
+C,Ohio,T,6
+C,Ohio,L,9
+C,Ohio,E,10
+C,Ohio,O,2
+C,Oklahoma,P,7
+C,Oklahoma,T,9
+C,Oklahoma,L,10
+C,Oklahoma,E,7
+C,Oklahoma,O,1
+C,Oregon,P,10
+C,Oregon,T,4
+C,Oregon,L,3
+C,Oregon,E,3
+C,Oregon,O,8
+C,Pennsylvania,P,2
+C,Pennsylvania,T,3
+C,Pennsylvania,L,7
+C,Pennsylvania,E,6
+C,Pennsylvania,O,3
+C,Rhode Island,P,6
+C,Rhode Island,T,6
+C,Rhode Island,L,7
+C,Rhode Island,E,7
+C,Rhode Island,O,8
+C,South Carolina,P,2
+C,South Carolina,T,7
+C,South Carolina,L,4
+C,South Carolina,E,2
+C,South Carolina,O,1
+C,South Dakota,P,2
+C,South Dakota,T,10
+C,South Dakota,L,8
+C,South Dakota,E,10
+C,South Dakota,O,3
+C,Tennessee,P,6
+C,Tennessee,T,3
+C,Tennessee,L,10
+C,Tennessee,E,7
+C,Tennessee,O,10
+C,Texas,P,2
+C,Texas,T,5
+C,Texas,L,10
+C,Texas,E,9
+C,Texas,O,7
+C,Utah,P,10
+C,Utah,T,8
+C,Utah,L,5
+C,Utah,E,4
+C,Utah,O,7
+C,Vermont,P,3
+C,Vermont,T,2
+C,Vermont,L,4
+C,Vermont,E,6
+C,Vermont,O,8
+C,Virginia,P,3
+C,Virginia,T,10
+C,Virginia,L,1
+C,Virginia,E,8
+C,Virginia,O,3
+C,Washington,P,2
+C,Washington,T,7
+C,Washington,L,9
+C,Washington,E,10
+C,Washington,O,9
+C,West Virginia,P,9
+C,West Virginia,T,7
+C,West Virginia,L,10
+C,West Virginia,E,2
+C,West Virginia,O,5
+C,Wisconsin,P,10
+C,Wisconsin,T,10
+C,Wisconsin,L,8
+C,Wisconsin,E,2
+C,Wisconsin,O,8
+C,Wyoming,P,3
+C,Wyoming,T,4
+C,Wyoming,L,3
+C,Wyoming,E,7
+C,Wyoming,O,1
+D,Alabama,P,2
+D,Alabama,T,2
+D,Alabama,L,6
+D,Alabama,E,8
+D,Alabama,O,3
+D,Alaska,P,10
+D,Alaska,T,7
+D,Alaska,L,7
+D,Alaska,E,6
+D,Alaska,O,7
+D,Arizona,P,5
+D,Arizona,T,2
+D,Arizona,L,8
+D,Arizona,E,8
+D,Arizona,O,3
+D,Arkansas,P,8
+D,Arkansas,T,9
+D,Arkansas,L,5
+D,Arkansas,E,10
+D,Arkansas,O,6
+D,California,P,7
+D,California,T,6
+D,California,L,4
+D,California,E,9
+D,California,O,3
+D,Colorado,P,9
+D,Colorado,T,6
+D,Colorado,L,5
+D,Colorado,E,5
+D,Colorado,O,2
+D,Connecticut,P,4
+D,Connecticut,T,8
+D,Connecticut,L,1
+D,Connecticut,E,6
+D,Connecticut,O,9
+D,Delaware,P,2
+D,Delaware,T,4
+D,Delaware,L,2
+D,Delaware,E,4
+D,Delaware,O,1
+D,Florida,P,6
+D,Florida,T,9
+D,Florida,L,1
+D,Florida,E,2
+D,Florida,O,3
+D,Georgia,P,10
+D,Georgia,T,4
+D,Georgia,L,6
+D,Georgia,E,6
+D,Georgia,O,9
+D,Hawaii,P,9
+D,Hawaii,T,9
+D,Hawaii,L,7
+D,Hawaii,E,1
+D,Hawaii,O,10
+D,Idaho,P,9
+D,Idaho,T,7
+D,Idaho,L,5
+D,Idaho,E,4
+D,Idaho,O,6
+D,Illinois,P,8
+D,Illinois,T,3
+D,Illinois,L,2
+D,Illinois,E,1
+D,Illinois,O,3
+D,Indiana,P,8
+D,Indiana,T,2
+D,Indiana,L,2
+D,Indiana,E,10
+D,Indiana,O,10
+D,Iowa,P,1
+D,Iowa,T,6
+D,Iowa,L,6
+D,Iowa,E,4
+D,Iowa,O,8
+D,Kansas,P,6
+D,Kansas,T,2
+D,Kansas,L,3
+D,Kansas,E,10
+D,Kansas,O,1
+D,Kentucky,P,6
+D,Kentucky,T,2
+D,Kentucky,L,8
+D,Kentucky,E,3
+D,Kentucky,O,8
+D,Louisiana,P,2
+D,Louisiana,T,5
+D,Louisiana,L,8
+D,Louisiana,E,4
+D,Louisiana,O,6
+D,Maine,P,8
+D,Maine,T,6
+D,Maine,L,4
+D,Maine,E,7
+D,Maine,O,3
+D,Maryland,P,4
+D,Maryland,T,5
+D,Maryland,L,4
+D,Maryland,E,10
+D,Maryland,O,5
+D,Massachusetts,P,3
+D,Massachusetts,T,5
+D,Massachusetts,L,7
+D,Massachusetts,E,8
+D,Massachusetts,O,2
+D,Michigan,P,1
+D,Michigan,T,2
+D,Michigan,L,1
+D,Michigan,E,8
+D,Michigan,O,2
+D,Minnesota,P,6
+D,Minnesota,T,3
+D,Minnesota,L,7
+D,Minnesota,E,6
+D,Minnesota,O,9
+D,Mississippi,P,8
+D,Mississippi,T,7
+D,Mississippi,L,4
+D,Mississippi,E,5
+D,Mississippi,O,8
+D,Missouri,P,4
+D,Missouri,T,7
+D,Missouri,L,4
+D,Missouri,E,4
+D,Missouri,O,9
+D,Montana,P,10
+D,Montana,T,1
+D,Montana,L,1
+D,Montana,E,7
+D,Montana,O,1
+D,Nebraska,P,4
+D,Nebraska,T,4
+D,Nebraska,L,5
+D,Nebraska,E,10
+D,Nebraska,O,8
+D,Nevada,P,8
+D,Nevada,T,8
+D,Nevada,L,5
+D,Nevada,E,8
+D,Nevada,O,6
+D,New Hampshire,P,3
+D,New Hampshire,T,9
+D,New Hampshire,L,2
+D,New Hampshire,E,8
+D,New Hampshire,O,10
+D,New Jersey,P,5
+D,New Jersey,T,7
+D,New Jersey,L,7
+D,New Jersey,E,4
+D,New Jersey,O,6
+D,New Mexico,P,6
+D,New Mexico,T,6
+D,New Mexico,L,9
+D,New Mexico,E,1
+D,New Mexico,O,8
+D,New York,P,3
+D,New York,T,4
+D,New York,L,8
+D,New York,E,5
+D,New York,O,10
+D,North Carolina,P,8
+D,North Carolina,T,8
+D,North Carolina,L,6
+D,North Carolina,E,1
+D,North Carolina,O,9
+D,North Dakota,P,9
+D,North Dakota,T,6
+D,North Dakota,L,4
+D,North Dakota,E,6
+D,North Dakota,O,6
+D,Ohio,P,5
+D,Ohio,T,9
+D,Ohio,L,8
+D,Ohio,E,8
+D,Ohio,O,7
+D,Oklahoma,P,9
+D,Oklahoma,T,5
+D,Oklahoma,L,2
+D,Oklahoma,E,5
+D,Oklahoma,O,5
+D,Oregon,P,6
+D,Oregon,T,2
+D,Oregon,L,2
+D,Oregon,E,4
+D,Oregon,O,2
+D,Pennsylvania,P,1
+D,Pennsylvania,T,9
+D,Pennsylvania,L,3
+D,Pennsylvania,E,6
+D,Pennsylvania,O,7
+D,Rhode Island,P,9
+D,Rhode Island,T,10
+D,Rhode Island,L,6
+D,Rhode Island,E,2
+D,Rhode Island,O,5
+D,South Carolina,P,8
+D,South Carolina,T,2
+D,South Carolina,L,1
+D,South Carolina,E,8
+D,South Carolina,O,6
+D,South Dakota,P,4
+D,South Dakota,T,9
+D,South Dakota,L,8
+D,South Dakota,E,5
+D,South Dakota,O,1
+D,Tennessee,P,9
+D,Tennessee,T,6
+D,Tennessee,L,6
+D,Tennessee,E,1
+D,Tennessee,O,7
+D,Texas,P,3
+D,Texas,T,1
+D,Texas,L,10
+D,Texas,E,1
+D,Texas,O,10
+D,Utah,P,2
+D,Utah,T,6
+D,Utah,L,8
+D,Utah,E,10
+D,Utah,O,7
+D,Vermont,P,6
+D,Vermont,T,5
+D,Vermont,L,3
+D,Vermont,E,2
+D,Vermont,O,10
+D,Virginia,P,8
+D,Virginia,T,10
+D,Virginia,L,7
+D,Virginia,E,1
+D,Virginia,O,10
+D,Washington,P,6
+D,Washington,T,9
+D,Washington,L,7
+D,Washington,E,5
+D,Washington,O,3
+D,West Virginia,P,8
+D,West Virginia,T,3
+D,West Virginia,L,6
+D,West Virginia,E,1
+D,West Virginia,O,3
+D,Wisconsin,P,5
+D,Wisconsin,T,8
+D,Wisconsin,L,8
+D,Wisconsin,E,7
+D,Wisconsin,O,7
+D,Wyoming,P,6
+D,Wyoming,T,9
+D,Wyoming,L,9
+D,Wyoming,E,5
+D,Wyoming,O,8
+E,Alabama,P,8
+E,Alabama,T,4
+E,Alabama,L,1
+E,Alabama,E,7
+E,Alabama,O,6
+E,Alaska,P,7
+E,Alaska,T,6
+E,Alaska,L,8
+E,Alaska,E,9
+E,Alaska,O,8
+E,Arizona,P,6
+E,Arizona,T,3
+E,Arizona,L,6
+E,Arizona,E,7
+E,Arizona,O,7
+E,Arkansas,P,5
+E,Arkansas,T,2
+E,Arkansas,L,7
+E,Arkansas,E,8
+E,Arkansas,O,4
+E,California,P,2
+E,California,T,9
+E,California,L,3
+E,California,E,7
+E,California,O,3
+E,Colorado,P,8
+E,Colorado,T,10
+E,Colorado,L,1
+E,Colorado,E,7
+E,Colorado,O,1
+E,Connecticut,P,8
+E,Connecticut,T,4
+E,Connecticut,L,3
+E,Connecticut,E,5
+E,Connecticut,O,2
+E,Delaware,P,7
+E,Delaware,T,1
+E,Delaware,L,7
+E,Delaware,E,4
+E,Delaware,O,1
+E,Florida,P,9
+E,Florida,T,3
+E,Florida,L,8
+E,Florida,E,6
+E,Florida,O,2
+E,Georgia,P,6
+E,Georgia,T,5
+E,Georgia,L,8
+E,Georgia,E,8
+E,Georgia,O,9
+E,Hawaii,P,7
+E,Hawaii,T,3
+E,Hawaii,L,5
+E,Hawaii,E,2
+E,Hawaii,O,2
+E,Idaho,P,7
+E,Idaho,T,6
+E,Idaho,L,5
+E,Idaho,E,8
+E,Idaho,O,1
+E,Illinois,P,2
+E,Illinois,T,2
+E,Illinois,L,3
+E,Illinois,E,5
+E,Illinois,O,9
+E,Indiana,P,10
+E,Indiana,T,10
+E,Indiana,L,7
+E,Indiana,E,10
+E,Indiana,O,5
+E,Iowa,P,8
+E,Iowa,T,6
+E,Iowa,L,4
+E,Iowa,E,2
+E,Iowa,O,8
+E,Kansas,P,10
+E,Kansas,T,10
+E,Kansas,L,6
+E,Kansas,E,5
+E,Kansas,O,2
+E,Kentucky,P,4
+E,Kentucky,T,8
+E,Kentucky,L,8
+E,Kentucky,E,5
+E,Kentucky,O,1
+E,Louisiana,P,6
+E,Louisiana,T,3
+E,Louisiana,L,6
+E,Louisiana,E,5
+E,Louisiana,O,4
+E,Maine,P,8
+E,Maine,T,5
+E,Maine,L,1
+E,Maine,E,6
+E,Maine,O,10
+E,Maryland,P,2
+E,Maryland,T,1
+E,Maryland,L,1
+E,Maryland,E,10
+E,Maryland,O,5
+E,Massachusetts,P,9
+E,Massachusetts,T,4
+E,Massachusetts,L,5
+E,Massachusetts,E,3
+E,Massachusetts,O,8
+E,Michigan,P,10
+E,Michigan,T,9
+E,Michigan,L,10
+E,Michigan,E,2
+E,Michigan,O,8
+E,Minnesota,P,10
+E,Minnesota,T,6
+E,Minnesota,L,6
+E,Minnesota,E,5
+E,Minnesota,O,4
+E,Mississippi,P,6
+E,Mississippi,T,5
+E,Mississippi,L,8
+E,Mississippi,E,6
+E,Mississippi,O,5
+E,Missouri,P,3
+E,Missouri,T,2
+E,Missouri,L,6
+E,Missouri,E,1
+E,Missouri,O,9
+E,Montana,P,6
+E,Montana,T,6
+E,Montana,L,2
+E,Montana,E,1
+E,Montana,O,5
+E,Nebraska,P,7
+E,Nebraska,T,1
+E,Nebraska,L,4
+E,Nebraska,E,4
+E,Nebraska,O,10
+E,Nevada,P,9
+E,Nevada,T,1
+E,Nevada,L,10
+E,Nevada,E,1
+E,Nevada,O,8
+E,New Hampshire,P,9
+E,New Hampshire,T,10
+E,New Hampshire,L,6
+E,New Hampshire,E,1
+E,New Hampshire,O,4
+E,New Jersey,P,5
+E,New Jersey,T,1
+E,New Jersey,L,10
+E,New Jersey,E,3
+E,New Jersey,O,2
+E,New Mexico,P,5
+E,New Mexico,T,7
+E,New Mexico,L,5
+E,New Mexico,E,2
+E,New Mexico,O,4
+E,New York,P,3
+E,New York,T,10
+E,New York,L,7
+E,New York,E,3
+E,New York,O,1
+E,North Carolina,P,4
+E,North Carolina,T,6
+E,North Carolina,L,2
+E,North Carolina,E,3
+E,North Carolina,O,8
+E,North Dakota,P,7
+E,North Dakota,T,1
+E,North Dakota,L,8
+E,North Dakota,E,7
+E,North Dakota,O,4
+E,Ohio,P,4
+E,Ohio,T,4
+E,Ohio,L,7
+E,Ohio,E,8
+E,Ohio,O,5
+E,Oklahoma,P,10
+E,Oklahoma,T,6
+E,Oklahoma,L,1
+E,Oklahoma,E,4
+E,Oklahoma,O,2
+E,Oregon,P,9
+E,Oregon,T,10
+E,Oregon,L,10
+E,Oregon,E,9
+E,Oregon,O,3
+E,Pennsylvania,P,5
+E,Pennsylvania,T,7
+E,Pennsylvania,L,7
+E,Pennsylvania,E,10
+E,Pennsylvania,O,1
+E,Rhode Island,P,4
+E,Rhode Island,T,8
+E,Rhode Island,L,5
+E,Rhode Island,E,6
+E,Rhode Island,O,4
+E,South Carolina,P,3
+E,South Carolina,T,10
+E,South Carolina,L,10
+E,South Carolina,E,8
+E,South Carolina,O,7
+E,South Dakota,P,10
+E,South Dakota,T,5
+E,South Dakota,L,9
+E,South Dakota,E,9
+E,South Dakota,O,8
+E,Tennessee,P,9
+E,Tennessee,T,7
+E,Tennessee,L,10
+E,Tennessee,E,4
+E,Tennessee,O,1
+E,Texas,P,4
+E,Texas,T,2
+E,Texas,L,8
+E,Texas,E,4
+E,Texas,O,9
+E,Utah,P,3
+E,Utah,T,5
+E,Utah,L,9
+E,Utah,E,5
+E,Utah,O,5
+E,Vermont,P,9
+E,Vermont,T,6
+E,Vermont,L,3
+E,Vermont,E,6
+E,Vermont,O,4
+E,Virginia,P,9
+E,Virginia,T,3
+E,Virginia,L,10
+E,Virginia,E,4
+E,Virginia,O,2
+E,Washington,P,3
+E,Washington,T,4
+E,Washington,L,5
+E,Washington,E,9
+E,Washington,O,4
+E,West Virginia,P,4
+E,West Virginia,T,9
+E,West Virginia,L,1
+E,West Virginia,E,1
+E,West Virginia,O,1
+E,Wisconsin,P,10
+E,Wisconsin,T,2
+E,Wisconsin,L,2
+E,Wisconsin,E,2
+E,Wisconsin,O,8
+E,Wyoming,P,7
+E,Wyoming,T,8
+E,Wyoming,L,6
+E,Wyoming,E,2
+E,Wyoming,O,9
+F,Alabama,P,8
+F,Alabama,T,2
+F,Alabama,L,2
+F,Alabama,E,4
+F,Alabama,O,10
+F,Alaska,P,4
+F,Alaska,T,10
+F,Alaska,L,9
+F,Alaska,E,2
+F,Alaska,O,8
+F,Arizona,P,10
+F,Arizona,T,2
+F,Arizona,L,2
+F,Arizona,E,3
+F,Arizona,O,5
+F,Arkansas,P,3
+F,Arkansas,T,1
+F,Arkansas,L,7
+F,Arkansas,E,4
+F,Arkansas,O,4
+F,California,P,10
+F,California,T,4
+F,California,L,1
+F,California,E,1
+F,California,O,7
+F,Colorado,P,6
+F,Colorado,T,9
+F,Colorado,L,9
+F,Colorado,E,7
+F,Colorado,O,6
+F,Connecticut,P,5
+F,Connecticut,T,8
+F,Connecticut,L,3
+F,Connecticut,E,6
+F,Connecticut,O,6
+F,Delaware,P,7
+F,Delaware,T,1
+F,Delaware,L,9
+F,Delaware,E,3
+F,Delaware,O,6
+F,Florida,P,3
+F,Florida,T,9
+F,Florida,L,3
+F,Florida,E,9
+F,Florida,O,8
+F,Georgia,P,1
+F,Georgia,T,4
+F,Georgia,L,8
+F,Georgia,E,2
+F,Georgia,O,5
+F,Hawaii,P,1
+F,Hawaii,T,5
+F,Hawaii,L,2
+F,Hawaii,E,10
+F,Hawaii,O,10
+F,Idaho,P,2
+F,Idaho,T,6
+F,Idaho,L,2
+F,Idaho,E,10
+F,Idaho,O,8
+F,Illinois,P,5
+F,Illinois,T,7
+F,Illinois,L,5
+F,Illinois,E,10
+F,Illinois,O,10
+F,Indiana,P,9
+F,Indiana,T,5
+F,Indiana,L,7
+F,Indiana,E,8
+F,Indiana,O,7
+F,Iowa,P,9
+F,Iowa,T,10
+F,Iowa,L,10
+F,Iowa,E,6
+F,Iowa,O,8
+F,Kansas,P,10
+F,Kansas,T,8
+F,Kansas,L,10
+F,Kansas,E,2
+F,Kansas,O,4
+F,Kentucky,P,1
+F,Kentucky,T,7
+F,Kentucky,L,10
+F,Kentucky,E,4
+F,Kentucky,O,9
+F,Louisiana,P,2
+F,Louisiana,T,9
+F,Louisiana,L,6
+F,Louisiana,E,10
+F,Louisiana,O,6
+F,Maine,P,10
+F,Maine,T,7
+F,Maine,L,1
+F,Maine,E,6
+F,Maine,O,10
+F,Maryland,P,3
+F,Maryland,T,2
+F,Maryland,L,5
+F,Maryland,E,1
+F,Maryland,O,3
+F,Massachusetts,P,9
+F,Massachusetts,T,1
+F,Massachusetts,L,7
+F,Massachusetts,E,5
+F,Massachusetts,O,2
+F,Michigan,P,7
+F,Michigan,T,5
+F,Michigan,L,6
+F,Michigan,E,4
+F,Michigan,O,7
+F,Minnesota,P,7
+F,Minnesota,T,2
+F,Minnesota,L,1
+F,Minnesota,E,5
+F,Minnesota,O,1
+F,Mississippi,P,1
+F,Mississippi,T,4
+F,Mississippi,L,9
+F,Mississippi,E,2
+F,Mississippi,O,6
+F,Missouri,P,4
+F,Missouri,T,10
+F,Missouri,L,5
+F,Missouri,E,4
+F,Missouri,O,1
+F,Montana,P,4
+F,Montana,T,4
+F,Montana,L,10
+F,Montana,E,4
+F,Montana,O,1
+F,Nebraska,P,9
+F,Nebraska,T,10
+F,Nebraska,L,6
+F,Nebraska,E,6
+F,Nebraska,O,8
+F,Nevada,P,1
+F,Nevada,T,1
+F,Nevada,L,9
+F,Nevada,E,10
+F,Nevada,O,5
+F,New Hampshire,P,3
+F,New Hampshire,T,4
+F,New Hampshire,L,7
+F,New Hampshire,E,7
+F,New Hampshire,O,10
+F,New Jersey,P,10
+F,New Jersey,T,8
+F,New Jersey,L,9
+F,New Jersey,E,10
+F,New Jersey,O,5
+F,New Mexico,P,6
+F,New Mexico,T,4
+F,New Mexico,L,3
+F,New Mexico,E,1
+F,New Mexico,O,1
+F,New York,P,3
+F,New York,T,10
+F,New York,L,3
+F,New York,E,2
+F,New York,O,5
+F,North Carolina,P,3
+F,North Carolina,T,7
+F,North Carolina,L,7
+F,North Carolina,E,10
+F,North Carolina,O,1
+F,North Dakota,P,5
+F,North Dakota,T,7
+F,North Dakota,L,4
+F,North Dakota,E,9
+F,North Dakota,O,10
+F,Ohio,P,1
+F,Ohio,T,3
+F,Ohio,L,1
+F,Ohio,E,8
+F,Ohio,O,8
+F,Oklahoma,P,10
+F,Oklahoma,T,10
+F,Oklahoma,L,10
+F,Oklahoma,E,5
+F,Oklahoma,O,4
+F,Oregon,P,1
+F,Oregon,T,3
+F,Oregon,L,6
+F,Oregon,E,5
+F,Oregon,O,9
+F,Pennsylvania,P,4
+F,Pennsylvania,T,1
+F,Pennsylvania,L,1
+F,Pennsylvania,E,4
+F,Pennsylvania,O,2
+F,Rhode Island,P,3
+F,Rhode Island,T,6
+F,Rhode Island,L,2
+F,Rhode Island,E,10
+F,Rhode Island,O,9
+F,South Carolina,P,7
+F,South Carolina,T,3
+F,South Carolina,L,1
+F,South Carolina,E,8
+F,South Carolina,O,4
+F,South Dakota,P,3
+F,South Dakota,T,4
+F,South Dakota,L,5
+F,South Dakota,E,7
+F,South Dakota,O,7
+F,Tennessee,P,10
+F,Tennessee,T,1
+F,Tennessee,L,4
+F,Tennessee,E,4
+F,Tennessee,O,8
+F,Texas,P,1
+F,Texas,T,10
+F,Texas,L,3
+F,Texas,E,3
+F,Texas,O,9
+F,Utah,P,6
+F,Utah,T,5
+F,Utah,L,2
+F,Utah,E,9
+F,Utah,O,10
+F,Vermont,P,4
+F,Vermont,T,8
+F,Vermont,L,2
+F,Vermont,E,9
+F,Vermont,O,8
+F,Virginia,P,1
+F,Virginia,T,8
+F,Virginia,L,9
+F,Virginia,E,4
+F,Virginia,O,2
+F,Washington,P,9
+F,Washington,T,3
+F,Washington,L,10
+F,Washington,E,3
+F,Washington,O,7
+F,West Virginia,P,1
+F,West Virginia,T,1
+F,West Virginia,L,10
+F,West Virginia,E,5
+F,West Virginia,O,7
+F,Wisconsin,P,7
+F,Wisconsin,T,1
+F,Wisconsin,L,3
+F,Wisconsin,E,3
+F,Wisconsin,O,6
+F,Wyoming,P,5
+F,Wyoming,T,3
+F,Wyoming,L,1
+F,Wyoming,E,9
+F,Wyoming,O,9
+G,Alabama,P,2
+G,Alabama,T,8
+G,Alabama,L,8
+G,Alabama,E,6
+G,Alabama,O,3
+G,Alaska,P,10
+G,Alaska,T,2
+G,Alaska,L,4
+G,Alaska,E,7
+G,Alaska,O,8
+G,Arizona,P,9
+G,Arizona,T,9
+G,Arizona,L,8
+G,Arizona,E,1
+G,Arizona,O,7
+G,Arkansas,P,2
+G,Arkansas,T,9
+G,Arkansas,L,10
+G,Arkansas,E,4
+G,Arkansas,O,5
+G,California,P,10
+G,California,T,1
+G,California,L,10
+G,California,E,6
+G,California,O,6
+G,Colorado,P,4
+G,Colorado,T,7
+G,Colorado,L,3
+G,Colorado,E,8
+G,Colorado,O,9
+G,Connecticut,P,4
+G,Connecticut,T,6
+G,Connecticut,L,1
+G,Connecticut,E,2
+G,Connecticut,O,1
+G,Delaware,P,3
+G,Delaware,T,8
+G,Delaware,L,3
+G,Delaware,E,3
+G,Delaware,O,7
+G,Florida,P,8
+G,Florida,T,1
+G,Florida,L,8
+G,Florida,E,10
+G,Florida,O,1
+G,Georgia,P,2
+G,Georgia,T,9
+G,Georgia,L,5
+G,Georgia,E,3
+G,Georgia,O,6
+G,Hawaii,P,10
+G,Hawaii,T,6
+G,Hawaii,L,4
+G,Hawaii,E,1
+G,Hawaii,O,3
+G,Idaho,P,5
+G,Idaho,T,9
+G,Idaho,L,9
+G,Idaho,E,10
+G,Idaho,O,1
+G,Illinois,P,3
+G,Illinois,T,7
+G,Illinois,L,10
+G,Illinois,E,5
+G,Illinois,O,5
+G,Indiana,P,6
+G,Indiana,T,5
+G,Indiana,L,8
+G,Indiana,E,4
+G,Indiana,O,4
+G,Iowa,P,2
+G,Iowa,T,3
+G,Iowa,L,7
+G,Iowa,E,7
+G,Iowa,O,6
+G,Kansas,P,1
+G,Kansas,T,8
+G,Kansas,L,8
+G,Kansas,E,1
+G,Kansas,O,1
+G,Kentucky,P,4
+G,Kentucky,T,7
+G,Kentucky,L,1
+G,Kentucky,E,6
+G,Kentucky,O,10
+G,Louisiana,P,4
+G,Louisiana,T,9
+G,Louisiana,L,1
+G,Louisiana,E,3
+G,Louisiana,O,10
+G,Maine,P,9
+G,Maine,T,4
+G,Maine,L,7
+G,Maine,E,1
+G,Maine,O,6
+G,Maryland,P,4
+G,Maryland,T,3
+G,Maryland,L,6
+G,Maryland,E,6
+G,Maryland,O,7
+G,Massachusetts,P,7
+G,Massachusetts,T,3
+G,Massachusetts,L,6
+G,Massachusetts,E,6
+G,Massachusetts,O,5
+G,Michigan,P,4
+G,Michigan,T,1
+G,Michigan,L,6
+G,Michigan,E,2
+G,Michigan,O,10
+G,Minnesota,P,2
+G,Minnesota,T,4
+G,Minnesota,L,4
+G,Minnesota,E,6
+G,Minnesota,O,5
+G,Mississippi,P,6
+G,Mississippi,T,1
+G,Mississippi,L,5
+G,Mississippi,E,7
+G,Mississippi,O,8
+G,Missouri,P,10
+G,Missouri,T,10
+G,Missouri,L,5
+G,Missouri,E,6
+G,Missouri,O,10
+G,Montana,P,10
+G,Montana,T,8
+G,Montana,L,7
+G,Montana,E,2
+G,Montana,O,5
+G,Nebraska,P,4
+G,Nebraska,T,5
+G,Nebraska,L,8
+G,Nebraska,E,10
+G,Nebraska,O,6
+G,Nevada,P,10
+G,Nevada,T,9
+G,Nevada,L,6
+G,Nevada,E,6
+G,Nevada,O,3
+G,New Hampshire,P,7
+G,New Hampshire,T,1
+G,New Hampshire,L,7
+G,New Hampshire,E,8
+G,New Hampshire,O,5
+G,New Jersey,P,4
+G,New Jersey,T,6
+G,New Jersey,L,2
+G,New Jersey,E,8
+G,New Jersey,O,5
+G,New Mexico,P,6
+G,New Mexico,T,8
+G,New Mexico,L,10
+G,New Mexico,E,9
+G,New Mexico,O,2
+G,New York,P,6
+G,New York,T,9
+G,New York,L,5
+G,New York,E,4
+G,New York,O,10
+G,North Carolina,P,9
+G,North Carolina,T,1
+G,North Carolina,L,1
+G,North Carolina,E,3
+G,North Carolina,O,6
+G,North Dakota,P,2
+G,North Dakota,T,3
+G,North Dakota,L,3
+G,North Dakota,E,5
+G,North Dakota,O,9
+G,Ohio,P,6
+G,Ohio,T,1
+G,Ohio,L,8
+G,Ohio,E,7
+G,Ohio,O,5
+G,Oklahoma,P,10
+G,Oklahoma,T,6
+G,Oklahoma,L,8
+G,Oklahoma,E,2
+G,Oklahoma,O,1
+G,Oregon,P,5
+G,Oregon,T,10
+G,Oregon,L,9
+G,Oregon,E,5
+G,Oregon,O,4
+G,Pennsylvania,P,7
+G,Pennsylvania,T,1
+G,Pennsylvania,L,5
+G,Pennsylvania,E,4
+G,Pennsylvania,O,3
+G,Rhode Island,P,9
+G,Rhode Island,T,5
+G,Rhode Island,L,9
+G,Rhode Island,E,8
+G,Rhode Island,O,1
+G,South Carolina,P,6
+G,South Carolina,T,3
+G,South Carolina,L,4
+G,South Carolina,E,8
+G,South Carolina,O,9
+G,South Dakota,P,9
+G,South Dakota,T,5
+G,South Dakota,L,5
+G,South Dakota,E,2
+G,South Dakota,O,10
+G,Tennessee,P,3
+G,Tennessee,T,2
+G,Tennessee,L,8
+G,Tennessee,E,10
+G,Tennessee,O,5
+G,Texas,P,7
+G,Texas,T,7
+G,Texas,L,2
+G,Texas,E,7
+G,Texas,O,9
+G,Utah,P,1
+G,Utah,T,5
+G,Utah,L,9
+G,Utah,E,6
+G,Utah,O,5
+G,Vermont,P,5
+G,Vermont,T,5
+G,Vermont,L,6
+G,Vermont,E,9
+G,Vermont,O,1
+G,Virginia,P,1
+G,Virginia,T,6
+G,Virginia,L,7
+G,Virginia,E,6
+G,Virginia,O,6
+G,Washington,P,7
+G,Washington,T,5
+G,Washington,L,10
+G,Washington,E,1
+G,Washington,O,9
+G,West Virginia,P,5
+G,West Virginia,T,7
+G,West Virginia,L,9
+G,West Virginia,E,9
+G,West Virginia,O,10
+G,Wisconsin,P,1
+G,Wisconsin,T,2
+G,Wisconsin,L,1
+G,Wisconsin,E,2
+G,Wisconsin,O,4
+G,Wyoming,P,7
+G,Wyoming,T,10
+G,Wyoming,L,7
+G,Wyoming,E,7
+G,Wyoming,O,3
